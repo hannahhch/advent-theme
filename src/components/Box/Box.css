@@ -1,3 +1,5 @@
-div {
-  background-color: pink;
+.box {
+  background-color: teal;
+  color: white;
+  text-align: center;
 }
