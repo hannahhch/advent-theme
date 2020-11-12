@@ -3,8 +3,19 @@ import { faSnowflake } from '@fortawesome/free-solid-svg-icons';
 import './Snowflakes.css'
 
 const Snowflakes = () => {
+  const renderManySnowflakes = (amount) => {
+    for (let i = 0; i < amount; i ++) {
+      return (
+        <div className="snowflake">
+          <FontAwesomeIcon icon={faSnowflake} />
+        </div>
+      )
+    }
+  }
   return (
-    <FontAwesomeIcon icon={faSnowflake} />
+    <section className="snowflakes">
+      {renderManySnowflakes(10)}
+    </section>  
   )
 }
 
