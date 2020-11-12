@@ -53,6 +53,21 @@
   padding: 10px 25px;
 }
 
+.box-button {
+  background-color: transparent;
+  border: none;
+  font-weight: 900;
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+.box-button:hover {
+  cursor: pointer;
+  font-weight: 900;
+}
+
 @keyframes wiggle {
    0% { transform: rotate(0deg); }
    75% { transform: rotate(5deg); }
