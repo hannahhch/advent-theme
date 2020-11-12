@@ -4,7 +4,7 @@ import './Boxes.css'
 const Boxes = () => {
   return (
     <main className="boxes">
-      <Box day={1} link="#"></Box>
+      <Box day={1} link="http://www.codepen.io/"></Box>
       <Box day={2} link="#"></Box>
       <Box day={3}></Box>
       <Box day={4}></Box>

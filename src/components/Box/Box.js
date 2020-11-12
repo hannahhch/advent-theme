@@ -8,23 +8,16 @@ const Box = (props) => {
     !showSecretContent ? setShowSecretContent(true) : setShowSecretContent(false);
   }
 
-  const displaySecretContent = () => {
-    return (
-      <div className= "box-content">
-        <a
-          href={props.link}
-          target="_blank"
-          rel="noreferrer">
-          Start your task!
-        </a>
-      </div>
-    )
-  }
-
   return (
-    <div className="box" onClick={handleBoxClick}>
-      <h2 className="box-title">{props.day}</h2>
-      { showSecretContent ? displaySecretContent() : null }
+    <div className={
+      "box " + (showSecretContent ? " animated" : "")
+    } onClick={handleBoxClick}>
+      <a className="box-link" target="_blank" href={props.link}>Let's Go!</a>
+      <div className={
+        "box--inner " + (showSecretContent ? " animated" : "")
+      }>
+        <h2 className="box-title">{props.day}</h2>
+      </div>
     </div>
   )
 }

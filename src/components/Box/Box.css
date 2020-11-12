@@ -1,24 +1,61 @@
 .box {
-  text-align: center;
-  color: black;
-}
-
-.box:nth-child(odd) {
-  background-color: #90D8D8;
-}
-
-.box:nth-child(even) {
-  background-color:#D8F0F0;
+  background-color: #000;
+  color: #fff;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .box:hover {
-  animation: wiggle 600ms ease-in-out infinite;
   cursor: pointer;
+}
+
+.box:not(.animated):hover {
+  animation: wiggle 600ms ease-in-out infinite;
+  animation-delay: 3s;
+}
+
+.box:nth-child(odd) .box--inner {
+  background-color: #90D8D8;
+}
+
+.box:nth-child(even) .box--inner {
+  background-color:#D8F0F0;
+}
+
+.box--inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; 
+  transform-origin: left;
+  transition: all 300ms ease-in-out;
+}
+
+.box--inner.animated {
+  transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(-105deg);
+}
+
+.box-title {
+  color: #fff;
+  font-size: 8em;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.box-link {
+  background-color: white;
+  color: black;
+  padding: 10px 25px;
 }
 
 @keyframes wiggle {
    0% { transform: rotate(0deg); }
-   85% { transform: rotate(5deg); }
-   95% { transform: rotate(-5deg); }
+   75% { transform: rotate(5deg); }
+   85% { transform: rotate(-5deg); }
   100% { transform: rotate(0deg); }
 }
