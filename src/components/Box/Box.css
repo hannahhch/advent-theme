@@ -10,13 +10,3 @@
 .box:nth-child(even) {
   background-color:#D8F0F0;
 }
-
-.button {
-  opacity: 0;
-  transition: 300ms;
-  border: none;
-}
-
-.box:hover .button{
-  opacity: 1;
-}

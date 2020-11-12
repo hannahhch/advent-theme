@@ -4,8 +4,8 @@ import './Boxes.css'
 const Boxes = () => {
   return (
     <main className="boxes">
-      <Box day={1}></Box>
-      <Box day={2}></Box>
+      <Box day={1} link="#"></Box>
+      <Box day={2} link="#"></Box>
       <Box day={3}></Box>
       <Box day={4}></Box>
       <Box day={5}></Box>
