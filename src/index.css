@@ -1,5 +1,6 @@
 #root, html, body {
-  background-color: #FEFCFC;
+  background-image: url('../src/winterpattern.svg');
+  background-size: contain;
   margin: 0;
   height: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -15,3 +16,5 @@
   flex-direction: column;
   justify-content: center;
 }
+
+/* <a href="https://www.vecteezy.com/free-vector/winter-pattern">Winter Pattern Vectors by Vecteezy</a> */
