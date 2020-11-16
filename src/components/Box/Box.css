@@ -1,5 +1,6 @@
 .box {
   /* box-shadow: inset 0 0 10px #000000; */
+  background-color: rgba(255, 255, 255, .5);
   border: black 4px dotted;
   color: #fff;
   position: relative;
@@ -10,11 +11,6 @@
 
 .box:hover {
   cursor: pointer;
-}
-
-.box:not(.animated):hover {
-  animation: wiggle 600ms ease-in-out infinite;
-  animation-delay: 3s;
 }
 
 .box:nth-child(3n - 1) .box--inner {
@@ -55,18 +51,31 @@
 
 .box-link {
   background-color: white;
-  color: black;
-  padding: 10px 25px;
+  border-radius: 50%;
+  color: white;
+  font-size: 40px;
+  line-height: 40px;
+  padding: 40px;
+  text-decoration: none;
 }
 
-@keyframes wiggle {
-   0% { transform: rotate(0deg); }
-   75% { transform: rotate(5deg); }
-   85% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
+.box:nth-child(3n - 2) .box-link {
+  background-color: #90D8D8;
 }
 
-/*
- finish door keeps drop shawdow of number and dot border
+.box:nth-child(3n - 3) .box-link {
+  background-color: #E29F9A;
+}
 
-*/
+.box:nth-child(3n - 1) .box-link {
+  background-color: #2B4A4B;
+}
+
+.box-close {
+  position: absolute;
+  background-color: white;
+  font-size: 18px;
+  top: 5px;
+  left: 5px;
+  border: none;
+}
