@@ -39,11 +39,12 @@
   right: 0;
   bottom: 0; 
   transform-origin: left;
-  transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out; 
 }
 
 .box--inner.animated {
   transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(-105deg);
+  z-index: 2;
 }
 
 .box-title {
@@ -58,24 +59,14 @@
   padding: 10px 25px;
 }
 
-.box-button {
-  background-color: transparent;
-  border: none;
-  font-weight: 900;
-  color: white;
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
-}
-
-.box-button:hover {
-  cursor: pointer;
-  font-weight: 900;
-}
-
 @keyframes wiggle {
    0% { transform: rotate(0deg); }
    75% { transform: rotate(5deg); }
    85% { transform: rotate(-5deg); }
   100% { transform: rotate(0deg); }
 }
+
+/*
+ finish door keeps drop shawdow of number and dot border
+
+*/
