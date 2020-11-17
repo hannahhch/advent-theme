@@ -5,7 +5,7 @@ const Box = (props) => {
   const [showSecretContent, setShowSecretContent] = React.useState(false);
   const [hideBox, setHideBox] = React.useState(false);
 
-  const handleBoxClick = () => {
+  const handleBoxDoorClick = () => {
     !showSecretContent ? setShowSecretContent(true) : setShowSecretContent(false);
   }
 
@@ -13,17 +13,12 @@ const Box = (props) => {
     !hideBox ? setHideBox(true) : setHideBox(false);
   }
 
-  const getBoxClasses = () => {
-    return showSecretContent ? "box animated" : "box"
+  const getBoxDoorClasses = () => {
+    return showSecretContent ? "box--door animated" : "box--door"
   }
-
-  const getInnerBoxClasses = () => {
-    return showSecretContent ? "box--inner animated" : "box--inner"
-  }
-
 
   return ( 
-    <div className={getBoxClasses()} onClick={handleBoxClick}>
+    <div className="box" onClick={handleBoxDoorClick}>
       {!hideBox ? 
       <a className="box-link" target="_blank" href={props.link}>
         <span>
@@ -33,7 +28,7 @@ const Box = (props) => {
         : <span className="box-title">{props.day}</span> }
       {!hideBox ? 
       
-      <div className={getInnerBoxClasses()}>
+      <div className={getBoxDoorClasses()}>
         <button 
           onClick={handleBoxCloseClick}
             className="box-close" title="Finished?">✖️
