@@ -1,5 +1,6 @@
 import React from 'react';
 import BoxLink from '../BoxLink/BoxLink';
+import './PendingBox.css';
 
 const PendingBox = (props) => {
   return (

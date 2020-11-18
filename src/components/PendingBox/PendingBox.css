@@ -1,0 +1,13 @@
+.box-close {
+  position: absolute;
+  background-color: rgba(255, 255, 255, .6);
+  font-size: 18px;
+  top: 5px;
+  left: 5px;
+  border: none;
+  transition: 600ms;
+}
+
+.box-close:hover {
+  background-color: rgba(255, 255, 255, 1);
+}

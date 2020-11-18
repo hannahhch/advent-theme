@@ -1,11 +1,17 @@
 .box {
   background-color: rgba(255, 255, 255, .5);
-  border: black 4px dotted;
+  border: dotted 4px transparent;
   color: #fff;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: 300ms;
+}
+
+.box:not(.completed):hover {
+  cursor: pointer;
+  border-color: black;
 }
 
 .box:nth-child(3n - 1) .box--door {
@@ -31,6 +37,7 @@
   bottom: 0; 
   transform-origin: left;
   transition: all 300ms ease-in-out; 
+  border: transparent 4px dotted;
 }
 
 .box--door.animated {
@@ -66,13 +73,4 @@
 
 .box:nth-child(3n - 1) .box-link span {
   border-color: #2B4A4B;
-}
-
-.box-close {
-  position: absolute;
-  background-color: white;
-  font-size: 18px;
-  top: 5px;
-  left: 5px;
-  border: none;
 }

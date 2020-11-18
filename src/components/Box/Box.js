@@ -36,7 +36,10 @@ const Box = (props) => {
   }
   
   return ( 
-    <div className="box" onClick={handleBoxDoorClick}>
+    <div 
+      className={!completedBox ? 'box' : 'box completed'} 
+      onClick={handleBoxDoorClick}
+    >
       {renderBoxContent()}
     </div> 
   )
