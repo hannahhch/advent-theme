@@ -10,7 +10,7 @@
 }
 
 .box-link .box-pulse {
-  border: 15px solid #F00;
+  border: 15px solid transparent;
   border-radius: 50%;
   position: absolute;
   top: 0;

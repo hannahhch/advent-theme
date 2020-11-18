@@ -20,8 +20,8 @@ const data = [
     emoji: "🥳"
   },
   {
-    link: "",
-    emoji: ""
+    link: "https://codepen.io/hannahhch/pen/QWEPeKb",
+    emoji: "❄️"
   },
   {
     link: "",

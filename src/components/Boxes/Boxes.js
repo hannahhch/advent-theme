@@ -5,8 +5,7 @@ import './Boxes.css'
 const Boxes = () => {
   return (
     <main className="boxes">
-      {
-        data.map((el, index) => {
+      { data.map((el, index) => {
           return (
             <Box 
               key={index}
@@ -15,8 +14,7 @@ const Boxes = () => {
               emoji={el.emoji}>
             </Box>
           )
-        })
-      }
+        })}
     </main>
   )
 }
