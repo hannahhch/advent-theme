@@ -16,8 +16,8 @@ const data = [
     emoji: "🍪"
   },
   {
-    link: "",
-    emoji: ""
+    link: "https://repl.it/@HannahHudson1/Advent5#index.js",
+    emoji: "🥳"
   },
   {
     link: "",
