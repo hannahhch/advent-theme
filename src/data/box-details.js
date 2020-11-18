@@ -8,8 +8,8 @@ const data = [
     emoji: "✉️"
   },
   {
-    link: "",
-    emoji: ""
+    link: "https://github.com/turingschool-examples/ski-lift",
+    emoji: "⛷️"
   },
   {
     link: "",

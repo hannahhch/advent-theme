@@ -21,7 +21,8 @@ const Box = (props) => {
     <div className="box" onClick={handleBoxDoorClick}>
       {!hideBox ? 
       <a className="box-link" target="_blank" href={props.link}>
-        <span>
+        <span className="box-pulse"></span>
+        <span className="box-emoji">
           {props.emojii}
         </span>
       </a>

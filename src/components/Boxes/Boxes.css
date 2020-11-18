@@ -1,8 +1,8 @@
 .boxes {
   display: grid;
   grid-template-columns: 300px 300px 300px 300px;
+  grid-template-rows: 200px 200px 200px;
   grid-gap: 15px;
-  height: 80%;
   max-width: 1500px;
   margin: 0 auto;
 }
