@@ -17,4 +17,8 @@
   justify-content: center;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 /* <a href="https://www.vecteezy.com/free-vector/winter-pattern">Winter Pattern Vectors by Vecteezy</a> */

@@ -1,5 +1,4 @@
 .box {
-  /* box-shadow: inset 0 0 10px #000000; */
   background-color: rgba(255, 255, 255, .5);
   border: black 4px dotted;
   color: #fff;
@@ -7,10 +6,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.box:hover {
-  cursor: pointer;
 }
 
 .box:nth-child(3n - 1) .box--door {
@@ -49,31 +44,6 @@
   text-shadow: 1px 1px 4px #000;
 }
 
-.box-link {
-  background-color: white;
-  border-radius: 50%;
-  color: white;
-  font-size: 40px;
-  line-height: 40px;
-  padding: 40px;
-  text-decoration: none;
-  position: relative;
-}
-
-.box-link .box-pulse {
-  border: 15px solid #F00;
-  border-radius: 50%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-}
-
-.box-link:hover .box-pulse {
-  animation: pulsate infinite 1s;
-}
-
 .box:nth-child(3n - 2) .box-link {
   background-color: #90D8D8;
 }
@@ -105,19 +75,4 @@
   top: 5px;
   left: 5px;
   border: none;
-}
-
-.box-close:hover {
-  cursor: pointer;
-}
-
-@keyframes pulsate {
-  0% {
-    transform: scale(1, 1);
-    opacity: 1;
-  }
-  100% {
-    transform: scale(1.2, 1.2);
-    opacity: 0;
-  }
 }

@@ -1,0 +1,35 @@
+.box-link {
+  background-color: white;
+  border-radius: 50%;
+  color: white;
+  font-size: 40px;
+  line-height: 40px;
+  padding: 40px;
+  text-decoration: none;
+  position: relative;
+}
+
+.box-link .box-pulse {
+  border: 15px solid #F00;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.box-link:hover .box-pulse {
+  animation: pulsate infinite 1s;
+}
+
+@keyframes pulsate {
+  0% {
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2, 1.2);
+    opacity: 0;
+  }
+}

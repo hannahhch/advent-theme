@@ -12,7 +12,7 @@ const Boxes = () => {
               key={index}
               day={index + 1} 
               link={el.link} 
-              emojii={el.emoji}>
+              emoji={el.emoji}>
             </Box>
           )
         })

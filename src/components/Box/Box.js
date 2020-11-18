@@ -1,41 +1,43 @@
 import './Box.css';
 import React from 'react';
+import PendingBox from '../PendingBox/PendingBox';
+import CompletedBox from '../CompletedBox/CompletedBox';
 
 const Box = (props) => {
   const [showSecretContent, setShowSecretContent] = React.useState(false);
-  const [hideBox, setHideBox] = React.useState(false);
+  const [completedBox, setCompletedBox] = React.useState(false);
 
   const handleBoxDoorClick = () => {
     !showSecretContent ? setShowSecretContent(true) : setShowSecretContent(false);
   }
 
   const handleBoxCloseClick = () => {
-    !hideBox ? setHideBox(true) : setHideBox(false);
+    !completedBox ? setCompletedBox(true) : setCompletedBox(false);
   }
 
   const getBoxDoorClasses = () => {
     return showSecretContent ? "box--door animated" : "box--door"
   }
 
+  const renderBoxContent = () => {
+    if (!completedBox) {
+      return (
+        <PendingBox 
+          emoji={props.emoji}
+          link={props.link}
+          day={props.day}
+          handleBoxCloseClick={handleBoxCloseClick} 
+          getBoxDoorClasses={getBoxDoorClasses}
+        />
+      )
+    } else {
+      return <CompletedBox day={props.day}/>
+    }
+  }
+  
   return ( 
     <div className="box" onClick={handleBoxDoorClick}>
-      {!hideBox ? 
-      <a className="box-link" target="_blank" href={props.link}>
-        <span className="box-pulse"></span>
-        <span className="box-emoji">
-          {props.emojii}
-        </span>
-      </a>
-        : <span className="box-title">{props.day}</span> }
-      {!hideBox ? 
-      
-      <div className={getBoxDoorClasses()}>
-        <button 
-          onClick={handleBoxCloseClick}
-            className="box-close" title="Finished?">✖️
-        </button>
-        <h2 className="box-title">{props.day}</h2>
-      </div> : null }
+      {renderBoxContent()}
     </div> 
   )
 }
