@@ -32,8 +32,8 @@ const data = [
     emoji: "🧥"
   },
   {
-    link: "",
-    emoji: ""
+    link: "https://github.com/turingschool-examples/do-you-wanna-build-a-snowman",
+    emoji: "☃️"
   },
   {
     link: "",
