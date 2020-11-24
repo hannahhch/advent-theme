@@ -1,5 +1,5 @@
 const data = {
-  category: 'Frontend',
+  category: 'Frontend Fundamentals',
   days: [
     {
       link: "https://repl.it/@HannahHudson1/AdventDay1#index.js",
