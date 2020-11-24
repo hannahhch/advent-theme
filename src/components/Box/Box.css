@@ -4,6 +4,7 @@
   color: #fff;
   position: relative;
   display: flex;
+  flex: 1 1 17%;
   justify-content: center;
   align-items: center;
   transition: 300ms;
@@ -47,7 +48,9 @@
 
 .box-title {
   color: #fff;
-  font-size: 8em;
+  font-size: 100px;
+  margin: 0;
+  line-height: 1;
   text-shadow: 1px 1px 4px #000;
 }
 

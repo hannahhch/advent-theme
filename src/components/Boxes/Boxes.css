@@ -1,8 +1,7 @@
 .boxes {
-  display: grid;
-  grid-template-columns: 300px 300px 300px 300px;
-  grid-template-rows: 200px 200px 200px;
-  grid-gap: 15px;
-  max-width: 1500px;
+  width: 80%;
+  height: 60%;
+  display: flex;
+  flex-wrap: wrap;
   margin: 0 auto;
 }

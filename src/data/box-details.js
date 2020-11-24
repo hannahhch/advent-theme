@@ -38,14 +38,6 @@ const data = [
   {
     link: "",
     emoji: ""
-  },
-  {
-    link: "",
-    emoji: ""
-  },
-  {
-    link: "",
-    emoji: ""
   }
 ];
 
