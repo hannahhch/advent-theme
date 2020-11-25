@@ -31,15 +31,15 @@ const data = {
     },
     {
       link: "https://repl.it/@HannahHudson1/Advent8",
-      emoji: "🧥"
+      emoji: "🥋"
     },
     {
       link: "https://github.com/turingschool-examples/do-you-wanna-build-a-snowman",
       emoji: "☃️"
     },
     {
-      link: "",
-      emoji: ""
+      link: "https://github.com/turingschool-examples/winter-mad-libs",
+      emoji: "📝"
     }
   ]
 };
