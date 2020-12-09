@@ -10,7 +10,7 @@ const PendingBox = (props) => {
         <h2 className="box-title">{props.day}</h2>
         <button
           onClick={props.handleBoxCloseClick}
-          className="box-close" title="Finished?">✖️
+          className="box-close" title="Finished?">&#215;
         </button>
       </div>
     </>

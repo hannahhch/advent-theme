@@ -1,8 +1,5 @@
 .navigation {
   background-color: white;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 10px 25px;
   margin: 25px 0;
 }
