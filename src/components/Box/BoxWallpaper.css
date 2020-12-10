@@ -1,0 +1,140 @@
+.box:nth-child(1) .box--door.animated {
+  animation-name: addBackground1;
+}
+
+.box:nth-child(2) .box--door.animated {
+  animation-name: addBackground2;
+}
+
+.box:nth-child(3) .box--door.animated {
+  animation-name: addBackground3;
+}
+
+.box:nth-child(4) .box--door.animated {
+  animation-name: addBackground4;
+}
+
+.box:nth-child(5) .box--door.animated {
+  animation-name: addBackground5;
+}
+
+.box:nth-child(6) .box--door.animated {
+  animation-name: addBackground6;
+}
+
+.box:nth-child(7) .box--door.animated {
+  animation-name: addBackground7;
+}
+
+.box:nth-child(8) .box--door.animated {
+  animation-name: addBackground8;
+}
+
+.box:nth-child(9) .box--door.animated {
+  animation-name: addBackground9;
+}
+
+.box:nth-child(10) .box--door.animated {
+  animation-name: addBackground10;
+}
+
+
+.box:nth-child(1) {
+  background-image: url('../../wallpaper1.jpg');
+}
+
+.box:nth-child(2) {
+  background-image: url('../../wallpaper2.jpg');
+}
+
+.box:nth-child(3) {
+  background-image: url('../../wallpaper3.jpg');
+}
+
+.box:nth-child(4) {
+  background-image: url('../../wallpaper4.jpg');
+}
+
+.box:nth-child(5) {
+  background-image: url('../../wallpaper5.jpg');
+}
+
+.box:nth-child(6) {
+  background-image: url('../../wallpaper6.jpg');
+}
+
+.box:nth-child(7) {
+  background-image: url('../../wallpaper7.jpg');
+}
+
+.box:nth-child(8) {
+  background-image: url('../../wallpaper8.jpg');
+}
+
+.box:nth-child(9) {
+  background-image: url('../../wallpaper9.jpg');
+}
+
+.box:nth-child(10) {
+  background-image: url('../../wallpaper10.jpg');
+}
+
+@keyframes addBackground1 {
+  100% {
+    background-image: url('../../wallpaper1.jpg');
+  }
+}
+
+@keyframes addBackground2 {
+  100% {
+    background-image: url('../../wallpaper2.jpg');
+  }
+}
+
+@keyframes addBackground3 {
+  100% {
+    background-image: url('../../wallpaper3.jpg');
+  }
+}
+
+@keyframes addBackground4 {
+  100% {
+    background-image: url('../../wallpaper4.jpg');
+  }
+}
+
+@keyframes addBackground5 {
+  100% {
+    background-image: url('../../wallpaper5.jpg');
+  }
+}
+
+@keyframes addBackground6 {
+  100% {
+    background-image: url('../../wallpaper6.jpg');
+  }
+}
+
+@keyframes addBackground7 {
+  100% {
+    background-image: url('../../wallpaper7.jpg');
+  }
+}
+
+@keyframes addBackground8 {
+  100% {
+    background-image: url('../../wallpaper8.jpg');
+  }
+}
+
+@keyframes addBackground9 {
+  100% {
+    background-image: url('../../wallpaper9.jpg');
+  }
+}
+
+@keyframes addBackground10 {
+  100% {
+    background-image: url('../../wallpaper10.jpg');
+  }
+}

@@ -1,4 +1,5 @@
 import './Box.css';
+import './BoxWallpaper.css';
 import React from 'react';
 import PendingBox from '../PendingBox/PendingBox';
 import CompletedBox from '../CompletedBox/CompletedBox';
