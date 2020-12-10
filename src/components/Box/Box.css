@@ -11,8 +11,9 @@
   transition: 300ms;
 }
 
-.box:not(.completed):hover .box-title {
-  transform: scale(1.3);
+.box:not(.completed):hover .box--door:not(.animated) {
+  transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(-40deg);
+  z-index: 2;
   transition: 300ms;
 }
 
