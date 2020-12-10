@@ -39,43 +39,43 @@
 }
 
 
-.box:nth-child(1) {
+.box:nth-child(1):not(.completed) {
   background-image: url('../../wallpaper1.jpg');
 }
 
-.box:nth-child(2) {
+.box:nth-child(2):not(.completed) {
   background-image: url('../../wallpaper2.jpg');
 }
 
-.box:nth-child(3) {
+.box:nth-child(3):not(.completed) {
   background-image: url('../../wallpaper3.jpg');
 }
 
-.box:nth-child(4) {
+.box:nth-child(4):not(.completed) {
   background-image: url('../../wallpaper4.jpg');
 }
 
-.box:nth-child(5) {
+.box:nth-child(5):not(.completed) {
   background-image: url('../../wallpaper5.jpg');
 }
 
-.box:nth-child(6) {
+.box:nth-child(6):not(.completed) {
   background-image: url('../../wallpaper6.jpg');
 }
 
-.box:nth-child(7) {
+.box:nth-child(7):not(.completed) {
   background-image: url('../../wallpaper7.jpg');
 }
 
-.box:nth-child(8) {
+.box:nth-child(8):not(.completed) {
   background-image: url('../../wallpaper8.jpg');
 }
 
-.box:nth-child(9) {
+.box:nth-child(9):not(.completed) {
   background-image: url('../../wallpaper9.jpg');
 }
 
-.box:nth-child(10) {
+.box:nth-child(10):not(.completed) {
   background-image: url('../../wallpaper10.jpg');
 }
 
