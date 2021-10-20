@@ -7,6 +7,7 @@ This application was created to serve as a reusable advent calendar for students
 * Edit the file in the `data` folder. It set up to pull links and emojis from there. You can add any number of boxes, but 10 works best. 
 
 ## Current Day Contents:
+### M1
 * [Day One](https://repl.it/@HannahHudson1/AdventDay1#index.js)
 * [Day Two](https://codepen.io/hannahhch/pen/OJXGpxJ)
 * [Day Three](https://github.com/turingschool-examples/ski-lift)
@@ -17,3 +18,5 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Eight](https://repl.it/@HannahHudson1/Advent8)
 * [Day Nine](https://github.com/turingschool-examples/do-you-wanna-build-a-snowman)
 * [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
+
+### M2 (Coming Soon!)
