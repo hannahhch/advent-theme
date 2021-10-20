@@ -1,9 +1,12 @@
 import React from 'react';
-import data from '../../data/m1';
 import './Title.css';
 
-const Title = () => {
-  return <h1 className="title">{data.days.length} Days of {data.category}</h1>
+const Title = (props) => {
+  return (
+    <h1 className="title"> 
+        10 Days of {props.title}
+    </h1>
+  )
 }
 
 export default Title;

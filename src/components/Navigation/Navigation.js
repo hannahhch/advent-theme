@@ -2,10 +2,12 @@ import React from 'react';
 import Title from '../Title/Title';
 import './Navigation.css';
 
-const Navigation = () => {
+const Navigation = (props) =>  {
+  console.log(props)
+
   return (
     <nav className="navigation">
-      <Title/>
+      <Title title={props.title}/>
     </nav>
   )
 }

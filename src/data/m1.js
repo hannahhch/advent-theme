@@ -1,5 +1,5 @@
-const data = {
-  category: 'Frontend Fundamentals',
+const modOneData = {
+  category: 'Frontend Basics',
   days: [
     {
       link: "https://repl.it/@HannahHudson1/AdventDay1#index.js",
@@ -44,4 +44,4 @@ const data = {
   ]
 };
 
-export default data;
+export default modOneData;
