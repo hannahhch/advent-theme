@@ -1,11 +1,21 @@
 #home {
-  background-image: url('../../home-background.jpg');
-  background-size: 100%;
   display: flex;
-  width: 100%;
-  height: 100%;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#home::after {
+  content: '';
+  background-color: rgba(0, 0, 0, .5);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
 }
 
 .link {
@@ -19,6 +29,7 @@
   text-shadow: 1px 1px 4px #000;
   border: 7px solid transparent;
   transition: 300ms;
+  z-index: 2;
 }
 
 .link:nth-of-type(2) {
