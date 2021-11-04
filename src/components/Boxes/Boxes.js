@@ -1,5 +1,4 @@
 import Box from '../Box/Box';
-import data from '../../data/m1'
 import './Boxes.css'
 
 const Boxes = (props) => {
