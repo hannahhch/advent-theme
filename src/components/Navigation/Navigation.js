@@ -1,13 +1,13 @@
 import React from 'react';
 import Title from '../Title/Title';
 import './Navigation.css';
+import { Link } from 'react-router-dom';
 
 const Navigation = (props) =>  {
-  console.log(props)
-
   return (
     <nav className="navigation">
-      <Title title={props.title}/>
+      <Link className='back-btn' to='/'>🏠</Link>
+      <Title title={props.title} module={props.module}/>
     </nav>
   )
 }

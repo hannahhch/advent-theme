@@ -4,3 +4,8 @@
   margin: 25px 0;
   font-family: 'Architects Daughter';
 }
+
+.back-btn {
+  text-decoration: none;
+  font-size: 40px;
+}
