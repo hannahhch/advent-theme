@@ -4,11 +4,11 @@ const modThreeData = {
   days: [
     {
       link: "",
-      emoji: "🎁"
+      emoji: "🎉"
     },
     {
-      link: "",
-      emoji: "✉️"
+      link: "https://replit.com/@kaylaewood/adventday2",
+      emoji: "🎁"
     },
     {
       link: "",
