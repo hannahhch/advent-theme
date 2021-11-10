@@ -35,8 +35,8 @@ const modThreeData = {
       emoji: "🥋"
     },
     {
-      link: "",
-      emoji: "☃️"
+      link: "https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d",
+      emoji: "✉️"
     },
     {
       link: "",
