@@ -23,7 +23,7 @@ This application was created to serve as a reusable advent calendar for students
 
 ### M3 (Under Construction)
 * [Day One]() - fix bug
-* [Day Two]() - code challenge
+* [Day Two](https://replit.com/@kaylaewood/adventday2) - code challenge ✅
 * [Day Three]() - add POST + DELETE
 * [Day Four]() - testing
 * [Day Five]() - code challenge
