@@ -22,13 +22,13 @@ This application was created to serve as a reusable advent calendar for students
 ### M2 (Coming Soon!)
 
 ### M3 (Under Construction)
-* [Day One]()
-* [Day Two]()
-* [Day Three]()
-* [Day Four]()
-* [Day Five]()
-* [Day Six]()
-* [Day Seven]()
-* [Day Eight]()
-* [Day Nine]()
-* [Day Ten]()
+* [Day One]() - fix bug
+* [Day Two]() - code challenge
+* [Day Three]() - add POST + DELETE
+* [Day Four]() - testing
+* [Day Five]() - code challenge
+* [Day Six]() - fix bug (testing)
+* [Day Seven]() - add router
+* [Day Eight]() - CSS challenge
+* [Day Nine]() - code challenge
+* [Day Ten]() - mock interview
