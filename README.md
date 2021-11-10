@@ -26,7 +26,7 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Two](https://replit.com/@kaylaewood/adventday2) - code challenge ✅
 * [Day Three]() - add POST + DELETE
 * [Day Four]() - testing
-* [Day Five]() - code challenge
+* [Day Five](https://replit.com/@kaylaewood/adventday5) - code challenge ✅
 * [Day Six]() - fix bug (testing)
 * [Day Seven]() - add router
 * [Day Eight]() - CSS challenge
