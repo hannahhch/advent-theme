@@ -1,4 +1,5 @@
 const modOneData = {
+  module: 1,
   category: 'Frontend Basics',
   days: [
     {

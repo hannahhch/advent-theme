@@ -36,6 +36,10 @@
   background-color: #557F7E;
 }
 
+.link:nth-of-type(3) {
+  background-color: #2B3F3F;
+}
+
 .link:hover {
   border-color: #E29F9A;
 }
