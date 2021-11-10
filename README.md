@@ -30,5 +30,5 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Six]() - fix bug (testing)
 * [Day Seven]() - add router
 * [Day Eight]() - CSS challenge
-* [Day Nine]() - code challenge
+* [Day Nine](https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d) - vanilla JS challenge ✅
 * [Day Ten]() - mock interview
