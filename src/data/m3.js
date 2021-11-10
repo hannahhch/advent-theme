@@ -19,8 +19,8 @@ const modThreeData = {
       emoji: "🍪"
     },
     {
-      link: "",
-      emoji: "🥳"
+      link: "https://replit.com/@kaylaewood/adventday5",
+      emoji: "🍳"
     },
     {
       link: "",
