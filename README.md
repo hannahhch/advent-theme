@@ -20,7 +20,17 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2 (Under Construction)
-* [M2 Holiday Project Prototype](https://github.com/hannahhch/mod-two-holiday-project/tree/main)
+#### [M2 Holiday Project Prototype](https://github.com/hannahhch/mod-two-holiday-project/tree/main)
+* Day 1 - Create your wireframe and begin the HTML
+* Day 2 - CSS 
+* Day 3 - Create Item class (w/ tests)
+* Day 4 - Create Items class (w/ tests)
+* Day 5 - GET all data and display it in the table
+* Day 6 - Hook up the filtering and sorting functionality
+* Day 7 - Hook up the information box (x spent so far) functionality (should update with checkboxes)
+* Day 8 - Use HTML and CSS to build an "Add New Item" form 
+* Day 9 - Use the form to POST new item (make sure it shows up on the page)
+* Day 10 - BONUS Day! Use today to refactor or create your own feature!
 
 ### M3 (Under Construction)
 * [Day One]() - fix bug
