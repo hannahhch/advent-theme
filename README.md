@@ -19,7 +19,8 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Nine](https://github.com/turingschool-examples/do-you-wanna-build-a-snowman)
 * [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
 
-### M2 (Coming Soon!)
+### M2 (Under Construction)
+* [M2 Holiday Project Prototype](https://github.com/hannahhch/mod-two-holiday-project/tree/main)
 
 ### M3 (Under Construction)
 * [Day One]() - fix bug
