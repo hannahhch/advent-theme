@@ -45,7 +45,7 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Ten]() - mock interview
 
 
-cypress test suite, build the frontend  (2 days)
+cypress test suite, build the frontend  (2 days)  
 POST 
 code challenges  
 bug with router  
