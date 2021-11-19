@@ -33,16 +33,16 @@ This application was created to serve as a reusable advent calendar for students
 * Day 10 - BONUS Day! Use today to refactor or create your own feature!
 
 ### M3 (Under Construction)
-* [Day One]() - fix bug
+* [Day One]() - 
 * [Day Two](https://replit.com/@kaylaewood/adventday2) - code challenge ✅
-* [Day Three]() - add POST + DELETE
-* [Day Four]() - testing
+* [Day Three]() - 
+* [Day Four]() - 
 * [Day Five](https://replit.com/@kaylaewood/adventday5) - code challenge ✅
-* [Day Six]() - fix bug (testing)
-* [Day Seven]() - add router
-* [Day Eight]() - CSS challenge
+* [Day Six]() - 
+* [Day Seven]() - 
+* [Day Eight]() - 
 * [Day Nine](https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d) - vanilla JS challenge ✅
-* [Day Ten]() - mock interview
+* [Day Ten]() 
 
 
 cypress test suite, build the frontend  (2 days)  
