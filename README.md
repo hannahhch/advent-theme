@@ -33,21 +33,8 @@ This application was created to serve as a reusable advent calendar for students
 * Day 10 - BONUS Day! Use today to refactor or create your own feature!
 
 ### M3 (Under Construction)
-* [Day One]() - 
+* [Day One]() - router bug
 * [Day Two](https://replit.com/@kaylaewood/adventday2) - code challenge ✅
-* [Day Three]() - 
-* [Day Four]() - 
-* [Day Five](https://replit.com/@kaylaewood/adventday5) - code challenge ✅
-* [Day Six]() - 
-* [Day Seven]() - 
-* [Day Eight]() - 
-* [Day Nine](https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d) - vanilla JS challenge ✅
-* [Day Ten]() 
-
-
-cypress test suite, build the frontend  (2 days)  
-POST 
-code challenges  
-bug with router  
-CSS challenge - recreate a tiny piece of a website that is interesting  
-PD  
+* [Day Three](https://github.com/turingschool-examples/card-maker-cypress-tdd) - cypress TDD ✅
+* [Day Four]() - css challenge
+* [Day Five]() - POST
