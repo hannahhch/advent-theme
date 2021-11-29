@@ -20,18 +20,16 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2 (Under Construction)
-#### [M2 Holiday Project Prototype](https://github.com/hannahhch/mod-two-holiday-project/tree/main)
-Skills
-- [Day One](https://replit.com/@HannahHudson/M2AdventDay1#index.js) - Iterators
-- 2. HTML and CSS
-- 3. GET
-- 4. POST
-- 5. More iterators
-- 6. TDD
-- 7. Refactoring
-- 8. HTML and CSS
-- 9. Scope
-- 10. GET
+* [Day One](https://replit.com/@HannahHudson/M2AdventDay1#index.js) - Iterators
+* HTML and CSS
+* GET
+* POST
+* More iterators
+* TDD
+* Refactoring
+* HTML and CSS* 
+* 9. Scope
+* 10. GET
 
 ### M3 (Under Construction)
 * [Day One]() - router bug
