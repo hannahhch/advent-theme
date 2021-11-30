@@ -20,8 +20,8 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2 (Under Construction)
-* [Day One](https://replit.com/@HannahHudson/M2AdventDay1#index.js) - Iterators
-* HTML and CSS
+* [Day One - Iterator Methods](https://replit.com/@HannahHudson/M2AdventDay1#index.js)
+* [Day Two - HTML & CSS](https://github.com/turingschool-examples/receipt-comp)
 * GET
 * POST
 * More iterators
