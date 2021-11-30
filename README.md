@@ -22,7 +22,7 @@ This application was created to serve as a reusable advent calendar for students
 ### M2 (Under Construction)
 * [Day One - Iterator Methods](https://replit.com/@HannahHudson/M2AdventDay1#index.js)
 * [Day Two - HTML & CSS](https://github.com/turingschool-examples/receipt-comp)
-* GET
+* [Day Three - GET Requests](https://github.com/turingschool-examples/get-some-gifts)
 * POST
 * More iterators
 * TDD
