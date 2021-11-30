@@ -8,16 +8,16 @@ This application was created to serve as a reusable advent calendar for students
 
 ## Current Day Contents:
 ### M1
-* [Day One](https://repl.it/@HannahHudson1/AdventDay1#index.js)
-* [Day Two](https://codepen.io/hannahhch/pen/OJXGpxJ)
-* [Day Three](https://github.com/turingschool-examples/ski-lift)
-* [Day Four](https://github.com/turingschool-examples/cookie-comp)
-* [Day Five](https://repl.it/@HannahHudson1/Advent5#index.js)
-* [Day Six](https://codepen.io/hannahhch/pen/QWEPeKb)
-* [Day Seven](https://codepen.io/hannahhch/pen/mdEYqjX)
-* [Day Eight](https://repl.it/@HannahHudson1/Advent8)
-* [Day Nine](https://github.com/turingschool-examples/do-you-wanna-build-a-snowman)
-* [Day Ten](https://github.com/turingschool-examples/winter-mad-libs)
+* [Day One - JavaScript Array](https://repl.it/@HannahHudson1/AdventDay1#index.js)
+* [Day Two - JavaScript DOM](https://codepen.io/hannahhch/pen/OJXGpxJ)
+* [Day Three - JavaScript Test Suite](https://github.com/turingschool-examples/ski-lift)
+* [Day Four - HTML & CSS](https://github.com/turingschool-examples/cookie-comp)
+* [Day Five - JavaScript Array](https://repl.it/@HannahHudson1/Advent5#index.js)
+* [Day Six - HTML, CSS & JS Refactoring](https://codepen.io/hannahhch/pen/QWEPeKb)
+* [Day Seven - HTML & CSS](https://codepen.io/hannahhch/pen/mdEYqjX)
+* [Day Eight - JavaScript Object](https://repl.it/@HannahHudson1/Advent8)
+* [Day Nine - JavaScript Test Suite](https://github.com/turingschool-examples/do-you-wanna-build-a-snowman)
+* [Day Ten - HTML, CSS and JS Dom Manipulation](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2 (Under Construction)
 * [Day One - Iterator Methods](https://replit.com/@HannahHudson/M2AdventDay1#index.js)
