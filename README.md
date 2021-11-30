@@ -27,9 +27,9 @@ This application was created to serve as a reusable advent calendar for students
 * More iterators
 * TDD
 * Refactoring
-* HTML and CSS* 
-* 9. Scope
-* 10. GET
+* HTML and CSS
+* Scope
+* GET
 
 ### M3 (Under Construction)
 * [Day One]() - router bug
