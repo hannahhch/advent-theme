@@ -7,8 +7,8 @@ const modTwoData = {
       emoji: "🍪"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://github.com/turingschool-examples/receipt-comp",
+      emoji: "🧾"
     },
     {
       link: "",
