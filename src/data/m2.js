@@ -35,8 +35,8 @@ const modTwoData = {
       emoji: "❓"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://replit.com/@HannahHudson/spicy-soup",
+      emoji: "🍲"
     },
     {
       link: "",
