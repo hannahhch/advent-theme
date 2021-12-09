@@ -24,13 +24,12 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Two - HTML & CSS](https://github.com/turingschool-examples/receipt-comp)
 * [Day Three - GET Requests](https://github.com/turingschool-examples/get-some-gifts)
 * [Day Four - TDD](https://github.com/turingschool-examples/treehouse-driven-development)
-* POST
-* More iterators
-* TDD
-* Refactoring
-* HTML and CSS
-* Scope
-* GET
+* Day Five - More iterators?
+* Day Six - POST Requests?
+* Day Seven - Scope?
+* Day Eight - Refactoring 
+* [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
+* Day Ten - Putting it all together?
 
 ### M3 (Under Construction)
 * [Day One]() - router bug
