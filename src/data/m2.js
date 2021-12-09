@@ -19,8 +19,8 @@ const modTwoData = {
       emoji: "🏡"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://replit.com/@HannahHudson/winter-activities",
+      emoji: "⛷️"
     },
     {
       link: "https://github.com/turingschool-examples/post-a-gift",
