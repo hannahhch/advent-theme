@@ -31,8 +31,8 @@ const modTwoData = {
       emoji: "❓"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://github.com/turingschool-examples/kitchen-clean-up",
+      emoji: "👩‍🍳"
     },
     {
       link: "https://replit.com/@HannahHudson/spicy-soup",
