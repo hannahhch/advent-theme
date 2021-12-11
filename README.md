@@ -27,7 +27,7 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Five - Iterator Methods](https://replit.com/@HannahHudson/winter-activities)
 * [Day Six - POST Requests](https://github.com/turingschool-examples/post-a-gift)
 * Day Seven - Scope?
-* Day Eight - Refactoring 
+* [Day Eight - Refactoring](https://github.com/turingschool-examples/kitchen-clean-up) 
 * [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
 * Day Ten - Putting it all together?
 
