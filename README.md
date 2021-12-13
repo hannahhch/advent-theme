@@ -38,5 +38,5 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Four - Stretch Tech Research](https://gist.github.com/kaylagordon/e4df98dba4b33b04c2822a205e676d35)
 * [Day Five - CSS Challenge](https://github.com/turingschool-examples/responsive-css-imperfectfoods) 
 * [Day Six - Back to the Basics: Vanilla JS](https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d)
-* [Day Seven - POST Requests](https://github.com/turingschool-examples/math4you-fe) (Under Construction)
+* [Day Seven - POST Requests](https://github.com/turingschool-examples/math4you-fe) 
 * [Day Eight - Build an IdeaBox](https://gist.github.com/kaylagordon/a5477013405461e1820dfd4efcd09687)
