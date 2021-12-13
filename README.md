@@ -31,12 +31,12 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
 * Day Ten - Putting it all together?
 
-### M3 (Under Construction)
+### M3 
 * [Day One - Code Challenge](https://replit.com/@kaylaewood/adventday1) 
 * [Day Two - Resume](https://gist.github.com/kaylagordon/f5fd3e3ce34f63d5ca61e8f6f6ee8fa0)
 * [Day Three - TDD w/ Cypress](https://github.com/turingschool-examples/card-maker-cypress-tdd) 
 * [Day Four - Stretch Tech Research](https://gist.github.com/kaylagordon/e4df98dba4b33b04c2822a205e676d35)
 * [Day Five - CSS Challenge](https://github.com/turingschool-examples/responsive-css-imperfectfoods) 
 * [Day Six - Back to the Basics: Vanilla JS](https://gist.github.com/kaylagordon/7d22b19c73e2bddfa6260c94f81ce26d)
-* [Day Seven - POST Requests](https://github.com/turingschool-examples/math4you-fe)
+* [Day Seven - POST Requests](https://github.com/turingschool-examples/math4you-fe) (Under Construction)
 * [Day Eight - Build an IdeaBox](https://gist.github.com/kaylagordon/a5477013405461e1820dfd4efcd09687)
