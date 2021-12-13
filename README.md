@@ -35,8 +35,8 @@ This application was created to serve as a reusable advent calendar for students
 * [Day One - Code Challenge](https://replit.com/@kaylaewood/adventday1) ✅
 * [Day Two - Resume]()
 * [Day Three - TDD w/ Cypress](https://github.com/turingschool-examples/card-maker-cypress-tdd) ✅
-* [Day Four - Stretch Tech]()
+* [Day Four - Stretch Tech Research]()
 * [Day Five - CSS Challenge](https://github.com/turingschool-examples/responsive-css-imperfectfoods) ✅
-* [Day Six - Build an IdeaBox]()
+* [Day Six - Back to the Basics]()
 * [Day Seven - POST Request]()
-* [Day Eight - ]() -
+* [Day Eight - Build an IdeaBox (with Stretch Tech)]() -
