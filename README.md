@@ -32,8 +32,11 @@ This application was created to serve as a reusable advent calendar for students
 * Day Ten - Putting it all together?
 
 ### M3 (Under Construction)
-* [Day One]() - router bug
-* [Day Two](https://replit.com/@kaylaewood/adventday2) - code challenge ✅
-* [Day Three](https://github.com/turingschool-examples/card-maker-cypress-tdd) - cypress TDD ✅
-* [Day Four](https://github.com/turingschool-examples/responsive-css-imperfectfoods) - css challenge
-* [Day Five]() - POST
+* [Day One - Code Challenge](https://replit.com/@kaylaewood/adventday1) ✅
+* [Day Two - Resume]()
+* [Day Three - TDD w/ Cypress](https://github.com/turingschool-examples/card-maker-cypress-tdd) ✅
+* [Day Four - Stretch Tech]()
+* [Day Five - CSS Challenge](https://github.com/turingschool-examples/responsive-css-imperfectfoods) ✅
+* [Day Six - Build an IdeaBox]()
+* [Day Seven - POST Request]()
+* [Day Eight - ]() -
