@@ -27,8 +27,8 @@ const modTwoData = {
       emoji: "✉️"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://gist.github.com/hannahhch/6d86e3733556848cb730d657ff72810a",
+      emoji: "😌"
     },
     {
       link: "https://github.com/turingschool-examples/kitchen-clean-up",
