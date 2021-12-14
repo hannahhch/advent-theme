@@ -29,7 +29,7 @@ This application was created to serve as a reusable advent calendar for students
 * Day Seven - Scope?
 * [Day Eight - Refactoring](https://github.com/turingschool-examples/kitchen-clean-up) 
 * [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
-* Day Ten - Putting it all together?
+* [Day Ten - CYOA Project](https://github.com/turingschool-examples/packing-list)
 
 ### M3 
 * [Day One - Code Challenge](https://replit.com/@kaylaewood/adventday1) 
