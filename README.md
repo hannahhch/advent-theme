@@ -26,7 +26,7 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Four - TDD](https://github.com/turingschool-examples/treehouse-driven-development)
 * [Day Five - Iterator Methods](https://replit.com/@HannahHudson/winter-activities)
 * [Day Six - POST Requests](https://github.com/turingschool-examples/post-a-gift)
-* Day Seven - Scope?
+* [Day Seven - Rest Day](https://gist.github.com/hannahhch/6d86e3733556848cb730d657ff72810a)
 * [Day Eight - Refactoring](https://github.com/turingschool-examples/kitchen-clean-up) 
 * [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
 * [Day Ten - CYOA Project](https://github.com/turingschool-examples/packing-list)
