@@ -39,8 +39,8 @@ const modTwoData = {
       emoji: "🍲"
     },
     {
-      link: "",
-      emoji: "❓"
+      link: "https://github.com/turingschool-examples/packing-list",
+      emoji: "🧳"
     }
   ]
 };
