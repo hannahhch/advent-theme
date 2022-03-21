@@ -1,6 +1,6 @@
 # Advent Calendar Theme
 
-This application was created to serve as a reusable advent calendar for students to have a new activity to complete every day. Its currently set up for Mod 1 students at The Turing School of Software & Design to have HTML, CSS and JavaScript exercises to work on during winter break. 
+This application was created to serve as a reusable advent calendar for students to have a new activity to complete every day. Its currently set up for Mod 1 - 3 students at The Turing School of Software & Design to have HTML, CSS and JavaScript exercises to work on during winter break. 
 
 ## To use this theme:
 * Fork the repo
