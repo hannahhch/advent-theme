@@ -7,7 +7,7 @@ This application was created to serve as a reusable advent calendar for students
 * Edit the file in the `data` folder. It set up to pull links and emojis from there. You can add any number of boxes, but 10 works best. 
 
 ## Deployed Site
-* 
+* https://turingadvent.netlify.app/
 
 ## Current Day Contents:
 ### M1
