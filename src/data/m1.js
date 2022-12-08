@@ -11,7 +11,7 @@ const modOneData = {
       emoji: "✉️"
     },
     {
-      link: "https://github.com/turingschool-examples/ski-lift",
+      link: "https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d",
       emoji: "⛷️"
     },
     {
@@ -35,7 +35,7 @@ const modOneData = {
       emoji: "🥋"
     },
     {
-      link: "https://github.com/turingschool-examples/do-you-wanna-build-a-snowman",
+      link: "https://gist.github.com/kaylagordon/2b14d66ed7a014fe46439e94bfec339c",
       emoji: "☃️"
     },
     {
