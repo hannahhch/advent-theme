@@ -13,13 +13,13 @@ This application was created to serve as a reusable advent calendar for students
 ### M1
 * [Day One - JavaScript Array](https://repl.it/@HannahHudson1/AdventDay1#index.js)
 * [Day Two - JavaScript DOM](https://codepen.io/hannahhch/pen/OJXGpxJ)
-* [Day Three - JavaScript Test Suite](https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d)
+* [Day Three - Work on Mythicals](https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d)
 * [Day Four - HTML & CSS](https://github.com/turingschool-examples/cookie-comp)
 * [Day Five - JavaScript Array](https://repl.it/@HannahHudson1/Advent5#index.js)
 * [Day Six - HTML, CSS & JS Refactoring](https://codepen.io/hannahhch/pen/QWEPeKb)
 * [Day Seven - HTML & CSS](https://codepen.io/hannahhch/pen/mdEYqjX)
 * [Day Eight - JavaScript Object](https://repl.it/@HannahHudson1/Advent8)
-* [Day Nine - JavaScript Test Suite](https://gist.github.com/kaylagordon/2b14d66ed7a014fe46439e94bfec339c)
+* [Day Nine - Work on Mythicals](https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d)
 * [Day Ten - HTML, CSS and JS Dom Manipulation](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2
