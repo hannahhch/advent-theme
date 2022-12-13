@@ -35,7 +35,7 @@ const modOneData = {
       emoji: "🥋"
     },
     {
-      link: "https://gist.github.com/kaylagordon/2b14d66ed7a014fe46439e94bfec339c",
+      link: "https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d",
       emoji: "☃️"
     },
     {
