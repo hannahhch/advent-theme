@@ -23,15 +23,15 @@ This application was created to serve as a reusable advent calendar for students
 * [Day Ten - HTML, CSS and JS Dom Manipulation](https://github.com/turingschool-examples/winter-mad-libs)
 
 ### M2
-* [Day One - Iterator Methods](https://replit.com/@HannahHudson/M2AdventDay1#index.js)
+* [Day One - Iterator Methods](https://replit.com/@frontend-instructors/M2AdventDay1#index.js)
 * [Day Two - HTML & CSS](https://github.com/turingschool-examples/receipt-comp)
 * [Day Three - GET Requests](https://github.com/turingschool-examples/get-some-gifts)
 * [Day Four - TDD](https://github.com/turingschool-examples/treehouse-driven-development)
-* [Day Five - Iterator Methods](https://replit.com/@HannahHudson/winter-activities)
+* [Day Five - Iterator Methods](https://replit.com/@frontend-instructors/winter-activities#index.js)
 * [Day Six - POST Requests](https://github.com/turingschool-examples/post-a-gift)
-* [Day Seven - Rest Day](https://gist.github.com/hannahhch/6d86e3733556848cb730d657ff72810a)
+* [Day Seven - Rest Day](https://turingschool.notion.site/Advent-Theme-Rest-Day-Notes-63c185f90901476b80ecc9c73045bb2b?pvs=4)
 * [Day Eight - Refactoring](https://github.com/turingschool-examples/kitchen-clean-up) 
-* [Day Nine - Spicy Object](https://replit.com/@HannahHudson/spicy-soup)
+* [Day Nine - Spicy Object](https://replit.com/@frontend-instructors/spicy-soup#index.js)
 * [Day Ten - CYOA Project](https://github.com/turingschool-examples/packing-list)
 
 ### M3 
