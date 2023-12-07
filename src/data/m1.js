@@ -11,7 +11,7 @@ const modOneData = {
       emoji: "✉️"
     },
     {
-      link: "https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d",
+      link: "https://gist.github.com/Kalikoze/0544683112bd0c0381f634c8cdda6c42",
       emoji: "⛷️"
     },
     {
@@ -27,7 +27,7 @@ const modOneData = {
       emoji: "❄️"
     },
     {
-      link: "https://codepen.io/hannahhch/pen/mdEYqjX",
+      link: "https://codepen.io/Kalikoze/pen/abXVrpK",
       emoji: "🕛"
     },
     {
@@ -35,7 +35,7 @@ const modOneData = {
       emoji: "🥋"
     },
     {
-      link: "https://gist.github.com/kaylagordon/6a0a0640c3dcf7e3f998bb078d7b339d",
+      link: "https://gist.github.com/Kalikoze/5c51aae50247fe03de0edc591159b737",
       emoji: "☃️"
     },
     {
