@@ -3,7 +3,7 @@ const modTwoData = {
   category: 'Frontend Fundamentals',
   days: [
     {
-      link: "https://replit.com/@HannahHudson/M2AdventDay1#index.js",
+      link: "https://replit.com/@frontend-instructors/M2AdventDay1#index.js",
       emoji: "🍪"
     },
     {
@@ -19,7 +19,7 @@ const modTwoData = {
       emoji: "🏡"
     },
     {
-      link: "https://replit.com/@HannahHudson/winter-activities",
+      link: "https://replit.com/@frontend-instructors/winter-activities#index.js",
       emoji: "⛷️"
     },
     {
@@ -27,7 +27,7 @@ const modTwoData = {
       emoji: "✉️"
     },
     {
-      link: "https://gist.github.com/hannahhch/6d86e3733556848cb730d657ff72810a",
+      link: "https://turingschool.notion.site/Advent-Theme-Rest-Day-Notes-63c185f90901476b80ecc9c73045bb2b?pvs=4",
       emoji: "😌"
     },
     {
@@ -35,7 +35,7 @@ const modTwoData = {
       emoji: "👩‍🍳"
     },
     {
-      link: "https://replit.com/@HannahHudson/spicy-soup",
+      link: "https://replit.com/@frontend-instructors/spicy-soup#index.js",
       emoji: "🍲"
     },
     {
